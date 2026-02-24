@@ -1,0 +1,4 @@
+class Studentevent {
+  calcGBA() {}
+  printinfo() {}
+}
