@@ -1,0 +1,15 @@
+# Flutter
+build/
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android / IDE
+.idea/
+*.iml
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
